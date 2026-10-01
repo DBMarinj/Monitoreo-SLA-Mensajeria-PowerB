@@ -20,7 +20,7 @@ Este proyecto analiza el flujo de mensajería transaccional y la eficiencia oper
 
 ---
 
-## 🚀 Acciones de Negocio Recomendadas
+## Acciones de Negocio Recomendadas
 1. **Atención Prioritaria:** Implementación de cola prioritaria para Peticiones/Quejas con alto impacto en la insatisfacción.
 2. **Rebalanceo Operativo:** Redistribución de turnos en franjas pico nocturnas para mitigar el represamiento.
 3. **Optimización FinOps:** Implementación de refresco incremental para optimizar costos de licenciamiento e infraestructura.
